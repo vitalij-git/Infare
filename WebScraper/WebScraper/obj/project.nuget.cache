@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1KBPn4CJWeuLVuwfceksiz/6y4p5Z0a+qANC+negtAx7vYwhgxx02Wy/jOLeZliQOYzKYybgcXGbhHFySSD2Gg==",
+  "success": true,
+  "projectFilePath": "E:\\Programavimas\\Infare\\WebScraper\\WebScraper\\WebScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vitalis\\.nuget\\packages\\csvhelper\\32.0.1\\csvhelper.32.0.1.nupkg.sha512",
+    "C:\\Users\\Vitalis\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
